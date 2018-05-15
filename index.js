@@ -1,1 +1,1 @@
-function shout()
+function shout(string)
